@@ -28,7 +28,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ZeroFormatter.Analyzer</RootNamespace>
-    <AssemblyName>ZeroFormatter.Analyzer.Vsix</AssemblyName>
+    <AssemblyName>Alexinea.ZeroFormatter.Analyzer.Vsix</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <GeneratePkgDefFile>false</GeneratePkgDefFile>
     <IncludeAssemblyInVSIXContainer>false</IncludeAssemblyInVSIXContainer>

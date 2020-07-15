@@ -5,7 +5,7 @@
     <TargetFramework>netstandard1.6</TargetFramework>
     <DefineConstants>$(DefineConstants);NET_CORE</DefineConstants>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
-    <AssemblyName>ZeroFormatter</AssemblyName>
+    <AssemblyName>Alexinea.ZeroFormatter</AssemblyName>
     <PackageId>ZeroFormatter.NETCore</PackageId>
     <GenerateAssemblyTitleAttribute>false</GenerateAssemblyTitleAttribute>
     <GenerateAssemblyDescriptionAttribute>false</GenerateAssemblyDescriptionAttribute>

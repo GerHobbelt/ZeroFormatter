@@ -1,5 +1,11 @@
 ZeroFormatter
 ===
+
+> This is a temporary repo for solving the issues mentioned in the official library issues 112. The actual code is obtained from the [official library](https://github.com/neuecc/ZeroFormatter) and [MyIntelligenceAgency](https://github.com/MyIntelligenceAgency/ZeroFormatter) repo.
+> <br />
+> 这是一个临时仓库，用于解决官方项目 问题 112（该问题半年来没见官方着手解决，虽然大家都知道如何解决），也就是在 .NET Core 3.1 中「Bad IL format」的问题。<br />
+> 代码来自 [上游官方仓库](https://github.com/neuecc/ZeroFormatter) 和下游的 [MyIntelligenceAgency](https://github.com/MyIntelligenceAgency/ZeroFormatter) 仓库。
+
 Fastest C# Serializer and Infinitely Fast Deserializer for .NET, .NET Core and Unity.
 
 [![Gitter](https://badges.gitter.im/neuecc/ZeroFormatter.svg)](https://gitter.im/neuecc/ZeroFormatter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)

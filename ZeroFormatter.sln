@@ -1,19 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26206.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_others", "_others", "{7FB78A03-3E9B-4E43-9A47-77D868ACCFD9}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
+		nuget\Alexinea.ZeroFormatter.Analyzer.nuspec = nuget\Alexinea.ZeroFormatter.Analyzer.nuspec
+		nuget\Alexinea.ZeroFormatter.Interfaces.nuspec = nuget\Alexinea.ZeroFormatter.Interfaces.nuspec
+		nuget\Alexinea.ZeroFormatter.nuspec = nuget\Alexinea.ZeroFormatter.nuspec
+		nuget\Alexinea.ZeroFormatter.Unity.nuspec = nuget\Alexinea.ZeroFormatter.Unity.nuspec
 		LICENSE = LICENSE
 		nuget\pack.bat = nuget\pack.bat
 		nuget\push.bat = nuget\push.bat
 		README.md = README.md
-		nuget\ZeroFormatter.Analyzer.nuspec = nuget\ZeroFormatter.Analyzer.nuspec
-		nuget\ZeroFormatter.Interfaces.nuspec = nuget\ZeroFormatter.Interfaces.nuspec
-		nuget\ZeroFormatter.nuspec = nuget\ZeroFormatter.nuspec
-		nuget\ZeroFormatter.Unity.nuspec = nuget\ZeroFormatter.Unity.nuspec
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2CE059FD-1C8D-49B7-851E-4A5B385F63D5}"
@@ -151,5 +151,8 @@ Global
 		{0763A385-4EE0-45F3-8B20-0B0A71C74870} = {4A106901-0A11-4D37-B5E6-D4DB7A43C41C}
 		{944F22D3-20B1-4F6D-83FA-9331CD4ADF75} = {F29BFD74-5462-485D-851E-69B683F08C84}
 		{0FB6577C-2FCD-430B-8BB3-E4ED0833E8FC} = {F29BFD74-5462-485D-851E-69B683F08C84}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89A82462-E981-49F5-9A1C-3B6AF486B063}
 	EndGlobalSection
 EndGlobal

@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ZeroFormatter</RootNamespace>
-    <AssemblyName>ZeroFormatter.Interfaces</AssemblyName>
+    <AssemblyName>Alexinea.ZeroFormatter.Interfaces</AssemblyName>
     <TargetFrameworkVersion Condition="'$(Configuration)|$(Platform)' != 'Unity|AnyCPU'">v4.5</TargetFrameworkVersion>
     <TargetFrameworkVersion Condition="'$(Configuration)|$(Platform)' == 'Unity|AnyCPU'">v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

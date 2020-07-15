@@ -1,0 +1,24 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>Alexinea.ZeroFormatter.Analyzer</id>
+        <version>1.1.1.0</version>
+        <title>Alexinea.ZeroFormatter.Analyzer</title>
+        <authors>neuecc</authors>
+        <owners>AlexLEWIS</owners>
+        <projectUrl>https://github.com/alexinea/Alexinea.ZeroFormatter/</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Analyzer of ZeroFormatter, verify rule for [ZeroFormattable] classes.</description>
+        <releaseNotes>Fix static property, array element check, explict interface impl.</releaseNotes>
+        <tags>ZeroFormatter, analyzers</tags>
+        <frameworkAssemblies>
+            <frameworkAssembly assemblyName="System" targetFramework="" />
+        </frameworkAssemblies>
+        <icon>zfc-icon.png</icon>
+    </metadata>
+    <files>
+        <file src="zfc-icon.png" target="" />
+        <file src="..\src\ZeroFormatter.Analyzer\bin\Release\*.dll" target="analyzers\dotnet\cs" exclude="**\Microsoft.CodeAnalysis.*;**\System.Collections.Immutable.*;**\System.Reflection.Metadata.*;**\System.Composition.*" />
+        <file src="..\src\ZeroFormatter.Analyzer\bin\Release\tools\*.ps1" target="tools\" />
+    </files>
+</package>
