@@ -1,5 +1,13 @@
-ZeroFormatter
-===
+<p>
+    <a href="https://alexinea.com" target="_blank" title="ZeroFormatter">
+        <img width="100" src="./msic/images/zfc-logo.png" />
+    </a>
+</p>
+
+# ZeroFormatter
+
+[![NuGet](https://img.shields.io/nuget/v/Alexinea.ZeroFormatter.svg)](https://nuget.org/packages/Alexinea.ZeroFormatter) 
+[![Nuget](https://img.shields.io/nuget/dt/Alexinea.ZeroFormatter.svg)](https://nuget.org/packages/Alexinea.ZeroFormatter)
 
 > This is a temporary repo for solving the issues mentioned in the official library issues 112. The actual code is obtained from the [official library](https://github.com/neuecc/ZeroFormatter) and [MyIntelligenceAgency](https://github.com/MyIntelligenceAgency/ZeroFormatter) repo.
 > <br />
