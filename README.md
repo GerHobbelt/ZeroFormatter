@@ -708,6 +708,7 @@ public class ImmutableListFormatter<TTypeResolver, T> : Formatter<TTypeResolver,
             var val = formatter.Deserialize(ref bytes, offset, tracker, out size);
             builder.Add(val);
             offset += size;
+            byteSize += size;
         }
             
         return builder.ToImmutable();
