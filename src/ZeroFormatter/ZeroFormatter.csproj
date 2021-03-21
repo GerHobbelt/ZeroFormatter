@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ZeroFormatter</RootNamespace>
     <AssemblyName>Alexinea.ZeroFormatter</AssemblyName>
-    <TargetFrameworkVersion Condition="'$(Configuration)|$(Platform)' != 'Unity|AnyCPU'">v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion Condition="'$(Configuration)|$(Platform)' != 'Unity|AnyCPU'">v4.8</TargetFrameworkVersion>
     <TargetFrameworkVersion Condition="'$(Configuration)|$(Platform)' == 'Unity|AnyCPU'">v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />

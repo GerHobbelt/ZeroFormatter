@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <VersionPrefix>1.6.4</VersionPrefix>
-    <TargetFramework>netstandard1.1</TargetFramework>
+    <TargetFramework>netstandard2.1</TargetFramework>
     <AssemblyName>Alexinea.ZeroFormatter.Interfaces</AssemblyName>
     <PackageId>ZeroFormatter.Interfaces.NETCore</PackageId>
   </PropertyGroup>
@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="System.Runtime" Version="4.3.0" />
+    <PackageReference Include="System.Runtime" Version="4.3.1" />
     <PackageReference Include="System.Linq" Version="4.3.0" />
   </ItemGroup>
 
