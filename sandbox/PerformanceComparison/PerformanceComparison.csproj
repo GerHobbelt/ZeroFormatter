@@ -40,17 +40,14 @@
     <Reference Include="FSharp.Core, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <HintPath>..\..\packages\FSharp.Core.5.0.1\lib\netstandard2.0\FSharp.Core.dll</HintPath>
     </Reference>
-    <Reference Include="FsPickler, Version=3.2.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\FsPickler.3.2.0\lib\net45\FsPickler.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="FsPickler, Version=4.6.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\FsPickler.4.6\lib\net45\FsPickler.dll</HintPath>
     </Reference>
-    <Reference Include="FsPickler.CSharp, Version=3.2.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\FsPickler.CSharp.3.2.0\lib\net45\FsPickler.CSharp.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="FsPickler.CSharp, Version=4.6.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\FsPickler.CSharp.4.6\lib\net45\FsPickler.CSharp.dll</HintPath>
     </Reference>
-    <Reference Include="FsPickler.Json, Version=3.2.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\FsPickler.Json.3.2.0\lib\net45\FsPickler.Json.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="FsPickler.Json, Version=4.6.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\FsPickler.Json.4.6\lib\net45\FsPickler.Json.dll</HintPath>
     </Reference>
     <Reference Include="Google.Protobuf, Version=3.15.6.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Google.Protobuf.3.15.6\lib\net45\Google.Protobuf.dll</HintPath>
